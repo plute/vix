@@ -3,6 +3,10 @@
 - 1552 VIX短期先物ETF
 - 2049 VIXインバースETN
 - 米国VIブル2倍ETF
+- VXX
+- XIV
+- SVXY
+- UVXY
 
 ## 構造
 - S&P 500を構成する個別株　NYSE, Nasdaq
